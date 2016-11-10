@@ -13,6 +13,7 @@ How do the diagrams help you visualize the branch structure?
 clearly understand the relationship and choosing branches and commit
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+a branch with functions of both preious branches.the diagram is straightforward to
+understand the logical relationship between all the branches and commits inherent
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
