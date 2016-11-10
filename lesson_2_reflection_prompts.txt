@@ -17,3 +17,5 @@ a branch with functions of both preious branches.the diagram is straightforward 
 understand the logical relationship between all the branches and commits inherent
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+automatic:pro is it can do most of the check and trivial work;cons is that it can not
+tell how to deal with conflict
